@@ -1,2 +1,2 @@
 # Fundamental_Algorithms
-Homework
+Implementation of some algorithms from "Introduction to Algorithms".
